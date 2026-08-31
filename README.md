@@ -50,61 +50,20 @@ The Executive Summary should answer five questions:
 
 # 1. Problem Definition & Policy Context
 
-**Target: ~200 words**
-
 ## 1.1 What is Autonomous Financial AI?
 
-Briefly define:
-
-**AI → Agentic AI → Autonomous Financial AI**
-
-Then give examples:
-
-* Trading
-* Compliance
-* Risk monitoring
-* Reconciliation
-* Digital-asset transactions
-* Smart contracts
-
-**Important:** Do not spend 100 words explaining AI technology. The marker cares about the **economic consequences**.
-
+In simple, Artificial intelligence (AI) enables computer systems to perform tasks that traditionally require human judgement. Agentic AI extends this capability by allowing systems to pursue objectives, make decisions and take actions with limited human intervention (IBM 2025a). Autonomous Financial AI (AFAI) then applies these capabilities to financial activities, enabling systems to independently undertake tasks such as trading, compliance, risk monitoring, reconciliation and digital-asset transactions (IBM 2025b). Hence, the significance of AFAI is therefore not the technology itself, but its potential to change how financial firms organise production and use labour.
 ---
 
 ## 1.2 The Labour-Market Problem
 
-This is where the central argument begins.
-
-Autonomous Financial AI allows firms to substitute **capital for labour**.
-
-### Economic mechanism
-
-**Human performs task → AI performs task → Labour demand for that task falls**
-
-Then introduce the counter-effect:
-
-**AI productivity → cheaper/more productive financial services → demand for complementary skills may increase**
-
-This prevents the argument from becoming:
-
-> "AI = unemployment"
-
-The analysis should instead recognise both **substitution** and **complementarity** effects.
+When an AFAI system performs a task that was previously carried out by a worker, firms can substitute capital for labour. If this occurs across enough tasks, demand for some routine and intermediate financial roles may fall (Donta et al. 2025). At the same time, automation can make financial services cheaper and more productive, creating greater demand for workers whose skills complement these systems, including AI oversight, technology safety and financial decision-making (Moody’s 2025). The effect of AFAI on employment is therefore unlikely to be simply a matter of jobs disappearing; it is also about which jobs change, which new skills become valuable and who bears the cost of that transition.
 
 ---
 
 ## 1.3 Why Now?
 
-Very briefly establish the policy context:
-
-* 2026 Joint Select Committee on Artificial Intelligence inquiry
-* Digital Assets Framework
-* April 2027 implementation
-* ASIC regulatory development
-
-### Key policy opportunity
-
-> **This is the policy opportunity: Australia can address the labour-market consequences of autonomous financial AI while the regulatory framework is still being developed.**
+This issue is becoming more relevant as Australia develops its regulatory framework for digital assets. The 2026 Joint Select Committee on Artificial Intelligence inquiry and the proposed Digital Assets Framework, due to be implemented from April 2027, provide important opportunities for Australia to shape how these technologies are adopted (Parliament of Australia 2026; ASIC 2025). Yet the emerging framework does not directly address what happens to workers when increasingly autonomous financial systems replace or restructure existing tasks. Addressing this gap before AFAI becomes more deeply embedded in the financial system would allow Australia to capture its productivity benefits while better managing the labour-market disruption it may create.
 
 ---
 
@@ -451,13 +410,17 @@ Conduct an independent review and adjust:
 
 # 7. References
 
-Use **RMIT Harvard referencing** consistently throughout the proposal.
+# References
 
-Ensure that:
+ASIC (Australian Securities and Investments Commission) (2025) *ASIC’s roadmap for digital assets law reform implementation*, ASIC website, accessed 31 August 2026. https://www.asic.gov.au/about-asic/news-centre/news-items/asics-roadmap-for-digital-assets-law-reform-implementation
 
-* Every major factual claim has an appropriate source.
-* Academic literature is used for economic mechanisms.
-* Government sources are used for Australian policy and labour-market data.
-* Legislation and regulatory documents are used for the Digital Assets Framework and financial regulation.
-* All references follow the same RMIT Harvard format.
+Donta PK, Saleh A, Li Y, Vaishnav S, Fang K, Feng H, Xia Y, Gadekallu TR, Zhang Q, Shi X, Beikmohammadi A, Magnússon S, Murturi I, Dehury CK, Paprzycki M, Loven L, Tarkoma S and Dustdar S (2025) 'Socio-technical aspects of Agentic AI', *arXiv*, arXiv:2601.06064, accessed 31 August 2026. https://arxiv.org/abs/2601.06064
+
+IBM (2025a) *Agentic AI*, IBM website, accessed 31 August 2026. https://www.ibm.com/think/topics/agentic-ai
+
+IBM (2025b) *Artificial intelligence in finance*, IBM website, accessed 31 August 2026. https://www.ibm.com/think/topics/artificial-intelligence-finance
+
+Moody’s (2025) *Agentic AI in financial services*, Moody’s website, accessed 31 August 2026. https://www.moodys.com/web/en/us/creditview/blog/agentic-ai-in-financial-services.html
+
+Parliament of Australia (2026) *Joint Select Committee on Artificial Intelligence*, Parliament of Australia website, accessed 31 August 2026. https://www.aph.gov.au/Parliamentary_Business/Committees/Joint/Artificial_Intelligence
 
