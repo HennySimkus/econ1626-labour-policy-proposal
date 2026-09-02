@@ -1,10 +1,6 @@
 # The Cryptographic Agentic Liability Protocol
 
-## Managing the Labour-Market Effects of Autonomous Financial AI
-
-**To:** Deputy Secretary, Workforce and Skills, Department of Employment and Workplace Relations (DEWR)
-
-**Policy context:** This proposal advises DEWR on labour-market safeguards that could be incorporated into the implementation of Australia's Digital Assets Framework from April 2027, informed by the 2026 Joint Select Committee on Artificial Intelligence inquiry.
+## Managing the Labour Market Effects of Autonomous Financial AI
 
 ---
 
@@ -50,115 +46,51 @@ The Executive Summary should answer five questions:
 
 # 1. Problem Definition & Policy Context
 
-## 1.1 What is Autonomous Financial AI?
+## 1.1 Autonomous Financial AI (AFAI)
 
-In simple, Artificial intelligence (AI) enables computer systems to perform tasks that traditionally require human judgement. Agentic AI extends this capability by allowing systems to pursue objectives, make decisions and take actions with limited human intervention (IBM 2025a). Autonomous Financial AI (AFAI) then applies these capabilities to financial activities, enabling systems to independently undertake tasks such as trading, compliance, risk monitoring, reconciliation and digital-asset transactions (IBM 2025b). Hence, the significance of AFAI is therefore not the technology itself, but its potential to change how financial firms organise production and use labour.
----
-
-## 1.2 The Labour-Market Problem
-
-When an AFAI system performs a task that was previously carried out by a worker, firms can substitute capital for labour. If this occurs across enough tasks, demand for some routine and intermediate financial roles may fall (Donta et al. 2025). At the same time, automation can make financial services cheaper and more productive, creating greater demand for workers whose skills complement these systems, including AI oversight, technology safety and financial decision-making (Moody’s 2025). The effect of AFAI on employment is therefore unlikely to be simply a matter of jobs disappearing; it is also about which jobs change, which new skills become valuable and who bears the cost of that transition.
+Autonomous Financial AI, or AFAI, refers to systems that can complete financial tasks with without human intervention. In practice, this includes transaction processing, ledger reconciliation, routine compliance checks, risk monitoring, trading and digital asset management.  The significance of AFAI is not only that it can perform work faster, but rather financial firms can use it as a substitute to employees whilst also being a lower ongoing cost (IBM 2025a; IBM 2025b).
 
 ---
 
-## 1.3 Why Now?
+## Capital Substitution and Shifting Workforce Demands
 
-This issue is becoming more relevant as Australia develops its regulatory framework for digital assets. The 2026 Joint Select Committee on Artificial Intelligence inquiry and the proposed Digital Assets Framework, due to be implemented from April 2027, provide important opportunities for Australia to shape how these technologies are adopted (Parliament of Australia 2026; ASIC 2025). Yet the emerging framework does not directly address what happens to workers when increasingly autonomous financial systems replace or restructure existing tasks. Addressing this gap before AFAI becomes more deeply embedded in the financial system would allow Australia to capture its productivity benefits while better managing the labour-market disruption it may create.
+When an AFAI system performs a task previously carried out by a worker, firms substitute technological capital for human labor. Because finance roles are heavily composed of these repetitive data tasks, automating them at scale fundamentally erodes the need for human positioning. Consequently, thee demand for routine and intermediate financial roles is projected to drop significantly (Donta et al. 2025). 
+
+While AFAI will cause some immediate unemployment, most workers whose tasks are displaced will remain and face adjustment costs, including retraining and transitions into different roles. The debate should therefore shift from fears of AFAI job destruction, rather to a focus on how we can utlilse these productivity gains to assist worker transitions.
+
+
+---
+
+## 1.3 The 2027 Regulatory Window
+
+This issue is becoming more relevant as Australia develops its regulatory framework for digital assets. The Joint Select Committee on Artificial Intelligence, established in August 2026, is considering both the opportunities and risks of AI, including its implications for financial services (Parliament of Australia 2026). At the same time, the Digital Assets Framework (DAF) will commence on 9 April 2027 and introduce licensing and supervision for digital asset platforms and tokenised custody platforms (ASIC 2026). This current issue is  these emerging arrangements do not specifically identify autonomous financial agents or establish a mechanism for managing their labour market effects. Addressing this gap before AFAI becomes more deeply embedded in the financial system would allow Australia to capture its productivity benefits while better managing the labour market disruption it will create.
 
 ---
 
 # 2. Labour-Market & Economic Impacts
 
-**Target: ~300 words**
-
-This should be the **main economic analysis section**.
-
 ---
 
-## 2.1 Task Automation → Employment
+## 2.1 Task Automation & Employment
 
-Ask:
-
-> **What actually gets automated?**
-
-Use evidence to identify vulnerable tasks:
-
-* Transaction processing
-* Reconciliation
-* Routine compliance
-* Reporting
-* Monitoring
-* Financial analysis
-
-Then explain the economic mechanism:
-
-> AI substitutes for labour in particular tasks rather than necessarily eliminating entire occupations.
-
-Bring in the **Jobs and Skills Australia (JSA)** evidence here:
-
-* **31%** of Australia's workforce is in highly augmentable occupations.
-* **4%** is in highly automatable occupations.
-
-This demonstrates understanding of the **task-based approach to automation**.
+Although AFAI can successfully automate routine, data heavy tasks, it cannot yet replace human oversight. Jobs and Skills Australia finds that 31% of Australian jobs are highly augmentable, compared with 4% that are highly automatable, supporting the view that AI is more likely to change jobs than completely replace them (JSA 2025). 
 
 ---
 
 ## 2.2 Wages & Labour-Capital Substitution
 
-This is where the payroll/superannuation idea becomes valuable.
+Employees involve continuing costs, including wages, superannuation, leave, training and supervision. By comparison, AFAI requires investment in software, computing capacity, data and infrastructure, but can complete additional routine tasks at a low marginal cost once deployed. This allows firms to increase output without increasing labour costs at the same rate, improving productivity (Productivity Commission 2024).
 
-### Human labour
+As AFAI takes over more routine tasks, firms will need fewer workers for their routine, data intense tasks. At the same time, workers who can check AI outputs, manage exceptions and use financial judgement become more valuable. This creates different wage outcomes within financial services. Workers whose tasks are replaced face weaker demand and wage pressure, while workers whose skills work alongside AFAI can benefit from stronger demand. Research across OECD countries finds that AI automation exposure is associated with lower labour demand and wages, whereas AI augmentation has the opposite effect (Filippucci et al. 2024). AI changes who benefits from financial work, rather than reducing all wages equally.
 
-A firm pays:
-
-**Wages + superannuation + employment-related costs**
-
-### AI capital
-
-A firm instead pays:
-
-**Software + compute + infrastructure**
-
-### Economic consequence
-
-As firms substitute AI capital for labour, the distribution of income may shift away from **labour compensation** and toward **returns to capital**.
-
-Then discuss potential wage effects:
-
-* Lower demand for routine/intermediate workers
-* Higher demand for AI and complementary skills
-* Possible wage divergence between workers
-
-**Important:** Do not claim that everyone's wages will fall.
 
 ---
 
 ## 2.3 Industrial Structure & Distribution
 
-Now zoom out from individual workers.
+AFAI allows financial firms to process more transactions, operate continuously and expand some services without hiring employees at the same rate. Firms with capital, high quality data, computing infrastructure and specialist workers are better able to adopt and manage these systems. This gives larger financial firms and technology providers an advantage over smaller firms that cannot invest in the same technology or expertise.
 
-Autonomous Financial AI could allow firms to:
-
-* Operate with fewer employees
-* Scale more cheaply
-* Operate continuously
-* Reduce marginal costs
-* Increase returns to technology and data
-
-### Potential result
-
-Firms with greater access to AI capital may gain an advantage over smaller firms.
-
-### Distributional / Equity Lens
-
-| Potentially Exposed                   | Potential Beneficiaries               |
-| ------------------------------------- | ------------------------------------- |
-| Routine financial workers             | AI-skilled workers                    |
-| Compliance and administrative workers | Technology owners                     |
-| Workers needing retraining            | Firms with AI capital                 |
-| Workers with less adaptable skills    | Highly specialised AI/finance workers |
-
-This directly addresses the assignment's **distributional and equity requirement**.
+The gains and costs are therefore unevenly distributed. As shown in figure 1, firms and technology owners benefit from lower operating costs and higher output, while workers in routine roles face the greatest risk of displacement and retraining costs. Without accessible reskilling and job transition support, this can widen inequality within financial services. The policy challenge is to help affected workers move into secure new roles while allowing firms to retain the efficiency benefits of responsible AFAI adoption.
 
 ---
 

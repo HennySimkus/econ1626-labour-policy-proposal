@@ -12,9 +12,18 @@
 
 ---
 
-### Policy Client & Context
+## To
 
-This proposal advises the **Deputy Secretary, Workforce and Skills, Department of Employment and Workplace Relations (DEWR)** on labour-market safeguards for autonomous financial AI as part of the implementation of Australia's **Digital Assets Framework from April 2027**, informed by the **2026 Joint Select Committee on Artificial Intelligence inquiry**.
+**Committee Secretariat**
+**Joint Select Committee on Artificial Intelligence**
+
+PO Box 6100
+Parliament House
+Canberra ACT 2600
+
+### Policy Context
+
+This submission responds to the 2026 Joint Select Committee on Artificial Intelligence inquiry regarding the workforce impacts of automation. It advises the Committee on legislative gaps within the upcoming Corporations Amendment (Digital Assets Framework) Act, proposing a Cryptographic Agentic Liability Protocol (CALP) to mitigate labor market disruptions in the financial sector prior to the framework’s April 2027 implementation.
 
 ---
 
