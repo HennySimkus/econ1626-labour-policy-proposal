@@ -69,7 +69,20 @@ As per figure 3, option 1 is the easiest to implement and most compatible with A
 
 # 5. Recommended Package and Implementation
 
+The Committee should recommend a two year Autonomous AI Workforce Transition Scheme pilot. The Australian Government would establish the scheme: DEWR would administer the transition fund and worker services, while ASIC would monitor firm reporting and compliance. As outlined in Figure 4, Treasury, DEWR, ASIC and Jobs and Skills Australia would develop materiality thresholds, reporting templates, consultation standards and a proportionate contribution formula in the first six months. In year one, participating financial services firms would lodge workforce transition plans and contributions through a central portal. The funding and accountability arrangements are set out in Figure 5: a $12 million Commonwealth appropriation would fund policy design, guidance, administration and independent evaluation, while firm contributions would primarily fund direct worker support. Figure 6 sets out KPIs for the year two evaluation before a continuation decision.
+
 # 6. Risks and Mitigations
+
+As set out in Figure 7, the scheme creates risks of deterring productive AI adoption, regulatory avoidance, superficial transition planning and ineffective training. These risks are managed through a targeted, proportionate pilot: obligations scale with material labour substitution, reporting is auditable, worker consultation is evidenced, and success is measured by employment and earnings outcomes rather than course enrolments alone. The independent evaluation would review contribution settings, compliance costs and investment effects before any continuation or expansion decision.
 
 # References
 
+* World Economic Forum 2026, The AI Playbook for Financial Services, World Economic Forum, Geneva, viewed 21 September 2026, <https://www.weforum.org/publications/the-ai-playbook-for-financial-services/>.
+* Department of Employment and Workplace Relations (2025) *Career Transition Assistance*, Australian Government, viewed 18 September 2026, https://www.dewr.gov.au/career-transition-assistance.
+* Fernando J, McLoughlin K and Ratnayake R (2025) ‘Technology investment and AI: What are firms telling us?’, *RBA Bulletin*, November, viewed 18 September 2026, https://www.rba.gov.au/publications/bulletin/2025/nov/technology-investment-and-ai-what-are-firms-telling-us.html.
+* Filippucci F, Gal P, Jona-Lasinio C, Leandro A and Nicoletti G (2024) *The impact of artificial intelligence on productivity, distribution and growth: Key mechanisms, initial evidence and policy challenges*, OECD Artificial Intelligence Papers, no. 15, OECD Publishing, Paris, viewed 18 September 2026, https://doi.org/10.1787/8d900037-en.
+* Jobs and Skills Australia (JSA) (2025) *Our Gen AI transition: Industry exposures and adoption*, Australian Government, viewed 18 September 2026, https://www.jobsandskills.gov.au/studies/generative-artificial-intelligence-capacity-study/industry-data-on-ai-exposure.
+* OECD (2023) *OECD Employment Outlook 2023: Artificial Intelligence and the Labour Market*, OECD Publishing, Paris, viewed 18 September 2026, https://doi.org/10.1787/08785bba-en.
+* OECD (2024) *Fostering an inclusive digital transformation as AI spreads among firms*, OECD Policy Briefs, no. 8, OECD Publishing, Paris, viewed 18 September 2026, https://doi.org/10.1787/5876200c-en.
+* Parliament of Australia (2026) *Joint Select Committee on Artificial Intelligence*, Parliament of Australia, viewed 18 September 2026, https://www.aph.gov.au/Parliamentary_Business/Committees/Joint/Artificial_Intelligence.
+* Reserve Bank of Australia (2024) ‘Financial stability implications of artificial intelligence’, *Financial Stability Review*, September, viewed 18 September 2026, https://www.rba.gov.au/publications/fsr/2024/sep/focus-topic-financial-stability-implications-of-artificial-intelligence.html.
